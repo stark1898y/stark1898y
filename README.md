@@ -55,8 +55,10 @@
 
 ---
 
+<!-- 修复点：添加 v=2 缓存清除参数 + 备用链接 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stark1898y&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=stark1898y&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&v=2" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Trophies-7%20Achievements-blue?style=flat&logo=github" alt="Trophies Backup" />
 </p>
 
 ---
